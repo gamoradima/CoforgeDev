@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.70b98170-eea3-f816-6458-68c3f9779358.Caption" Value="Show elements: Number" />
+			<Item Name="AddonConfig.Rules.f4e5c35d-ca40-3a2d-bf15-131871c75820.Caption" Value="Show elements: SensitiveDataArea" />
+			<Item Name="Caption" Value="Realty form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

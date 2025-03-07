@@ -5,7 +5,11 @@
 			<Item Name="Caption" Value="Realty form page" />
 			<Item Name="LocalizableStrings.addRecord_40jpe10_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_60do37c_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_bpcbpje_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_sud675v_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ygfly6d_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.CommissionPercent_label.Value" Value="Commission percent" />
+			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
 		</Items>
 	</Group>
 </Resources>
